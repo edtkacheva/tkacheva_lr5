@@ -1,0 +1,14 @@
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\bin\Debug\net8.0\tkacaheva_lr4.exe
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\bin\Debug\net8.0\tkacaheva_lr4.deps.json
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\bin\Debug\net8.0\tkacaheva_lr4.runtimeconfig.json
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\bin\Debug\net8.0\tkacaheva_lr4.dll
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\bin\Debug\net8.0\tkacaheva_lr4.pdb
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.AssemblyInfoInputs.cache
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.AssemblyInfo.cs
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.csproj.CoreCompileInputs.cache
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.dll
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\refint\tkacaheva_lr4.dll
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.pdb
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.genruntimeconfig.cache
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\ref\tkacaheva_lr4.dll

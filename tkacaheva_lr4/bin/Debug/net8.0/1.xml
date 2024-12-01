@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTkacheva_student>
+  <tkacheva_student>
+    <name>Катя</name>
+    <last_name>Ткачёва</last_name>
+    <age>19</age>
+  </tkacheva_student>
+  <tkacheva_student>
+    <name>Гоша</name>
+    <last_name>Муллаяров</last_name>
+    <age>20</age>
+  </tkacheva_student>
+</ArrayOfTkacheva_student>
