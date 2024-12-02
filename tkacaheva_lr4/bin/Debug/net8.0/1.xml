@@ -10,4 +10,18 @@
     <last_name>Муллаяров</last_name>
     <age>20</age>
   </tkacheva_student>
+  <tkacheva_student p2:type="tkacheva_headman" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
+    <name>Никита</name>
+    <last_name>Клейменов</last_name>
+    <age>19</age>
+    <group_name>АС-22-04</group_name>
+    <email>никита.почта</email>
+  </tkacheva_student>
+  <tkacheva_student p2:type="tkacheva_headman" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
+    <name>Даша</name>
+    <last_name>Овсянникова</last_name>
+    <age>20</age>
+    <group_name>АА-22-07</group_name>
+    <email>даша.почта</email>
+  </tkacheva_student>
 </ArrayOfTkacheva_student>

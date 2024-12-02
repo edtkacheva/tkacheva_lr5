@@ -13,11 +13,11 @@ namespace tkacaheva_lr4
     public class tkacheva_student
     {
         [XmlElement("name")]
-        public string name { get; set; }
+        public string name;
         [XmlElement("last_name")]
-        public string last_name { get; set; }
+        public string last_name;
         [XmlElement("age")]
-        public int age { get; set; }
+        public int age;
         public tkacheva_student() { }
         public virtual void create()
         {

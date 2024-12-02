@@ -12,9 +12,9 @@ namespace tkacaheva_lr4
     public class tkacheva_headman : tkacheva_student
     {
         [XmlElement("group_name")]
-        public string group_name { get; set; }
+        public string group_name;
         [XmlElement("email")]
-        public string email { get; set; }
+        public string email;
         public tkacheva_headman() { }
         public override void create()
         {

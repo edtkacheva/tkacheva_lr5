@@ -12,3 +12,4 @@ C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\
 C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.pdb
 C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.genruntimeconfig.cache
 C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\ref\tkacaheva_lr4.dll
+C:\Users\katuha\Documents\files\study\5sem\tkacheva_lr4\tkacaheva_lr4\obj\Debug\net8.0\tkacaheva_lr4.sourcelink.json
