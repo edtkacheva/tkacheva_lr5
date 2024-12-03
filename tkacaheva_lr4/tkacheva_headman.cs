@@ -8,13 +8,10 @@ using System.Xml.Serialization;
 namespace tkacaheva_lr4
 {
     [Serializable]
-    [XmlType("tkacheva_headman")]
     public class tkacheva_headman : tkacheva_student
     {
-        [XmlElement("group_name")]
-        public string group_name;
-        [XmlElement("email")]
-        public string email;
+        public string group_name { get; set; }
+        public string email { get; set; }
         public tkacheva_headman() { }
         public override void create()
         {

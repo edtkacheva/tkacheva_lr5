@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTkacheva_student>
+  <tkacheva_student>
+    <name>Вячеслав</name>
+    <last_name>Ткачёв</last_name>
+    <age>21</age>
+  </tkacheva_student>
+  <tkacheva_student p2:type="tkacheva_headman" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance">
+    <name>Даня</name>
+    <last_name>Симонов</last_name>
+    <age>22</age>
+    <group_name>АА-19-05</group_name>
+    <email>даня.почта</email>
+  </tkacheva_student>
+  <tkacheva_student>
+    <name>Богдан</name>
+    <last_name>Кононенко</last_name>
+    <age>23</age>
+  </tkacheva_student>
+</ArrayOfTkacheva_student>
